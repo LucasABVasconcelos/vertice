@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class Conexao {
     static String usuario = "root";
-    static String senha = "@Vascs199";
+    static String senha = "A@bc123@";
     static String url = "jdbc:mysql://localhost:3306/bancovertice_db";  // URL do banco de dados
     static String driver = "com.mysql.cj.jdbc.Driver";  // Driver JDBC do MySQL
     
