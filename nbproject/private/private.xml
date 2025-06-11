@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/bancoMalvader/bancoMalvader/web/logo.png</file>
+            <file>file:/C:/bancoMalvader/bancoMalvader/web/index.jsp</file>
+            <file>file:/C:/bancoMalvader/bancoMalvader/src/java/model/persistencia/dao/Conexao.java</file>
+            <file>file:/C:/bancoMalvader/bancoMalvader/web/view/loginView.jsp</file>
+            <file>file:/C:/bancoMalvader/bancoMalvader/web/view/inicio.jsp</file>
+            <file>file:/C:/bancoMalvader/bancoMalvader/web/view/formCadastroConta.jsp</file>
+            <file>file:/C:/bancoMalvader/bancoMalvader/web/view/cadastraContaView.jsp</file>
+            <file>file:/C:/bancoMalvader/bancoMalvader/src/java/model/persistencia/dao/ClienteDao.java</file>
+            <file>file:/C:/bancoMalvader/bancoMalvader/src/java/controller/UsuarioController.java</file>
+            <file>file:/C:/bancoMalvader/bancoMalvader/src/java/controller/ClienteController.java</file>
+            <file>file:/C:/bancoMalvader/bancoMalvader/src/java/model/persistencia/dao/EnderecoDao.java</file>
+            <file>file:/C:/bancoMalvader/bancoMalvader/src/java/model/persistencia/dao/UsuarioDao.java</file>
+        </group>
+    </open-files>
+</project-private>
